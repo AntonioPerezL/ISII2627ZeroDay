@@ -251,6 +251,8 @@ reportgenerator   -reports:"TestResults/**/coverage.cobertura.xml"   -targetdir:
 
 Con **Coverage Gutters**: CTRL+SHIT+P: Coverage Gutter: Display.
 
+<!-- Push connectivity test by SB -->
+
 # ENGLISH INSTRUCTIONS
 
 # Installing VS Code and Related Tools
